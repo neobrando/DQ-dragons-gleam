@@ -1,0 +1,3 @@
+sprite_index = castle;
+image_speed = 0;
+image_index = 0;
