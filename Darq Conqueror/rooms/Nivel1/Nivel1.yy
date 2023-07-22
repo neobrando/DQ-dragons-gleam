@@ -7,7 +7,6 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_1014B96B","path":"rooms/Nivel1/Nivel1.yy",},
     {"name":"inst_710B79E6","path":"rooms/Nivel1/Nivel1.yy",},
     {"name":"inst_6742C4EE","path":"rooms/Nivel1/Nivel1.yy",},
     {"name":"inst_81499BF","path":"rooms/Nivel1/Nivel1.yy",},
@@ -42,11 +41,13 @@
     {"name":"inst_D2C2223","path":"rooms/Nivel1/Nivel1.yy",},
     {"name":"inst_8F3141C","path":"rooms/Nivel1/Nivel1.yy",},
     {"name":"inst_603FA787","path":"rooms/Nivel1/Nivel1.yy",},
+    {"name":"inst_74DD5CA4","path":"rooms/Nivel1/Nivel1.yy",},
+    {"name":"inst_2DD6B746","path":"rooms/Nivel1/Nivel1.yy",},
+    {"name":"inst_17E8FD8","path":"rooms/Nivel1/Nivel1.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1014B96B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Caballero","path":"objects/Caballero/Caballero.yy",},"properties":[],"rotation":0.0,"scaleX":0.875,"scaleY":0.71875,"x":1152.0,"y":608.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_710B79E6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"properties":[],"rotation":0.0,"scaleX":0.376,"scaleY":0.36726227,"x":1613.0,"y":1238.0627,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6742C4EE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"properties":[],"rotation":0.0,"scaleX":0.356,"scaleY":0.37365848,"x":1324.0,"y":1238.0627,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_81499BF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"properties":[],"rotation":0.0,"scaleX":0.35599998,"scaleY":0.3672623,"x":1054.0,"y":1238.0627,},
@@ -81,6 +82,9 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D2C2223","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"properties":[],"rotation":0.0,"scaleX":0.33691916,"scaleY":0.35766557,"x":1241.5404,"y":-174.32,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_8F3141C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"properties":[],"rotation":0.0,"scaleX":0.3357096,"scaleY":0.35766554,"x":1488.2904,"y":-169.89113,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_603FA787","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"properties":[],"rotation":0.0,"scaleX":0.323,"scaleY":0.35761505,"x":1727.6975,"y":-169.84319,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_74DD5CA4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ButtonAzul","path":"objects/obj_ButtonAzul/obj_ButtonAzul.yy",},"properties":[],"rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":1600.0,"y":1056.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2DD6B746","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ButtonVerde","path":"objects/obj_ButtonVerde/obj_ButtonVerde.yy",},"properties":[],"rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":1344.0,"y":1056.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_17E8FD8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_characterManager","path":"objects/obj_characterManager/obj_characterManager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":672.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4286348337,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

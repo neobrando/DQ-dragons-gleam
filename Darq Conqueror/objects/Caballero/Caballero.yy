@@ -15,8 +15,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Playable",
+    "path": "folders/Objects/Playable.yy",
   },
   "parentObjectId": null,
   "persistent": false,
