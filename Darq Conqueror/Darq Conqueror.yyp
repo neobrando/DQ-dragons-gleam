@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"obj_characterManager","path":"objects/obj_characterManager/obj_characterManager.yy",},},
@@ -59,6 +59,7 @@
     {"id":{"name":"castle","path":"sprites/castle/castle.yy",},},
     {"id":{"name":"Caballero","path":"objects/Caballero/Caballero.yy",},},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
+    {"id":{"name":"scrInitializeArtifacts","path":"scripts/scrInitializeArtifacts/scrInitializeArtifacts.yy",},},
     {"id":{"name":"obj_ButtonVerde","path":"objects/obj_ButtonVerde/obj_ButtonVerde.yy",},},
     {"id":{"name":"btn_bat","path":"objects/btn_bat/btn_bat.yy",},},
     {"id":{"name":"sprJoystick","path":"sprites/sprJoystick/sprJoystick.yy",},},

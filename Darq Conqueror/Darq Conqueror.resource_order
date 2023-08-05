@@ -39,6 +39,7 @@
     {"name":"castle","order":4,"path":"sprites/castle/castle.yy",},
     {"name":"Caballero","order":1,"path":"objects/Caballero/Caballero.yy",},
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"scrInitializeArtifacts","order":4,"path":"scripts/scrInitializeArtifacts/scrInitializeArtifacts.yy",},
     {"name":"obj_ButtonVerde","order":9,"path":"objects/obj_ButtonVerde/obj_ButtonVerde.yy",},
     {"name":"btn_bat","order":2,"path":"objects/btn_bat/btn_bat.yy",},
     {"name":"sprJoystick","order":5,"path":"sprites/sprJoystick/sprJoystick.yy",},
