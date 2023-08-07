@@ -32,4 +32,3 @@ if (keyboard_check_pressed(vk_down))
         global.artifacts[? artifactName] = undefined;
     }
 }
-

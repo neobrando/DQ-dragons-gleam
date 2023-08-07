@@ -57,7 +57,6 @@
     {"id":{"name":"obj_artifactManager","path":"objects/obj_artifactManager/obj_artifactManager.yy",},},
     {"id":{"name":"Personaje_pruebaspr","path":"sprites/Personaje_pruebaspr/Personaje_pruebaspr.yy",},},
     {"id":{"name":"obj_pjSelectorParent","path":"objects/obj_pjSelectorParent/obj_pjSelectorParent.yy",},},
-    {"id":{"name":"obj_artifactTest","path":"objects/obj_artifactTest/obj_artifactTest.yy",},},
     {"id":{"name":"castle","path":"sprites/castle/castle.yy",},},
     {"id":{"name":"Caballero","path":"objects/Caballero/Caballero.yy",},},
     {"id":{"name":"spr_artifactTest","path":"sprites/spr_artifactTest/spr_artifactTest.yy",},},
