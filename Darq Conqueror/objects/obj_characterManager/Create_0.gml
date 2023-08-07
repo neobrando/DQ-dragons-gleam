@@ -31,6 +31,3 @@ Array position corresponds to the stats
 6 - CRT
 
 */
-
-
-

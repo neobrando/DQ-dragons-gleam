@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"obj_characterManager","path":"objects/obj_characterManager/obj_characterManager.yy",},},
@@ -54,11 +54,14 @@
     {"id":{"name":"spr_characters","path":"sprites/spr_characters/spr_characters.yy",},},
     {"id":{"name":"scrCharMoveTo","path":"scripts/scrCharMoveTo/scrCharMoveTo.yy",},},
     {"id":{"name":"cast","path":"objects/cast/cast.yy",},},
+    {"id":{"name":"obj_artifactManager","path":"objects/obj_artifactManager/obj_artifactManager.yy",},},
     {"id":{"name":"Personaje_pruebaspr","path":"sprites/Personaje_pruebaspr/Personaje_pruebaspr.yy",},},
     {"id":{"name":"obj_pjSelectorParent","path":"objects/obj_pjSelectorParent/obj_pjSelectorParent.yy",},},
     {"id":{"name":"castle","path":"sprites/castle/castle.yy",},},
     {"id":{"name":"Caballero","path":"objects/Caballero/Caballero.yy",},},
+    {"id":{"name":"spr_artifactTest","path":"sprites/spr_artifactTest/spr_artifactTest.yy",},},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
+    {"id":{"name":"scrInitializeArtifacts","path":"scripts/scrInitializeArtifacts/scrInitializeArtifacts.yy",},},
     {"id":{"name":"obj_ButtonVerde","path":"objects/obj_ButtonVerde/obj_ButtonVerde.yy",},},
     {"id":{"name":"btn_bat","path":"objects/btn_bat/btn_bat.yy",},},
     {"id":{"name":"sprJoystick","path":"sprites/sprJoystick/sprJoystick.yy",},},
